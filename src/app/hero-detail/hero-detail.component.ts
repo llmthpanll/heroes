@@ -32,4 +32,4 @@ export class HeroDetailComponent implements OnInit {
   goBack(): void {
     this.location.back();
   }
-} 
+}
